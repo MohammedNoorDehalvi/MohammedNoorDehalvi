@@ -1,147 +1,163 @@
-# Hi, I’m Noor 👋
+# <div align="center">🚀 MohammedNoorDehalvi</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=I+build+interactive+web+experiences;I+love+AI+tools+%26+automation;I+turn+ideas+into+products;I+care+about+clean+UI+and+premium+motion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=780&lines=Building+interactive+web+experiences;Designing+premium+UI+with+motion;Exploring+AI%2C+automation+%26+smart+workflows;Turning+ideas+into+real+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/MohammedNoorDehalvi"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"></a>
-  <a href="mailto:mohammednoordehalvi96@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=180&section=header&text=MohammedNoorDehalvi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
+</p>
+
+<p align="center">
+  <a href="https://apl-delta.vercel.app"><img src="https://img.shields.io/badge/Project%201-apl--delta.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:mohammednoordehalvi96@gmail.com"><img src="https://img.shields.io/badge/Email-mohammednoordehalvi96%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-MohammedNoorDehalvi-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Profile-Animated-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI-Premium%20Motion-06b6d4?style=for-the-badge" />
 </p>
 
 ---
 
-## About Me
+## <div align="center">About Me</div>
 
-I’m a builder who likes modern web experiences, AI-assisted workflows, and projects that feel interactive, premium, and useful. I enjoy turning rough ideas into polished products with strong UI, motion, and practical functionality.
+<p align="center">
+I build clean, interactive, premium-looking web experiences with strong motion, polished UI, and practical features. I like turning rough ideas into products that feel modern, cinematic, and useful.
+</p>
 
-<details>
-<summary><b>What I’m focused on right now</b></summary>
+<details open>
+<summary><b>What I focus on</b></summary>
 
-* Building interactive websites with strong visual polish
-* Working with AI tools, automation, and content pipelines
-* Improving frontend experiences with clean components and smooth motion
-* Shipping projects faster with reusable systems and practical architecture
+* Animated and interactive frontends
+* Premium design systems and strong visual hierarchy
+* AI-assisted workflows and automation
+* Fast execution with clean, reusable components
+* Product-style websites that feel polished and alive
 
 </details>
 
 <details>
 <summary><b>What I like building</b></summary>
 
-* High-end landing pages and dashboards
-* Auction / marketplace style interfaces
-* AI content tools and workflow automations
-* Creative product demos and cinematic scroll experiences
-* Utility apps that solve a clear problem
+* Auction and marketplace interfaces
+* Scroll-based storytelling sections
+* AI tools and content automation pipelines
+* Utility apps with simple, sharp UX
+* Brand websites with strong first impressions
 
 </details>
 
 ---
 
-## Tech I Work With
+## <div align="center">Tech Stack</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Integration-FF6B6B?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,supabase,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Interactive-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Design-Premium-0f766e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-Smart-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deployment-Vercel-black?style=flat-square" />
 </p>
 
 ---
 
-## Featured Work
+## <div align="center">Featured Projects</div>
 
 <details open>
-<summary><b>Selected projects</b></summary>
+<summary><b>Project highlights</b></summary>
 
-### 1) Interactive Auction Platform
+### 1) APL Delta
 
-A premium, motion-rich auction experience with polished UI, dynamic sections, and a stronger overall user journey.
+A polished project link and main showcase point.
 
-### 2) AI Content / Shorts Pipeline
+### 2) [Coming Soon]
 
-A workflow-oriented project focused on script generation, voice, subtitles, uploads, and faster content production.
+<!-- Add your next project URL here later -->
 
-### 3) Business / Brand Websites
+### 3) [Coming Soon]
 
-Clean, modern websites for product ideas and local businesses with a focus on conversion, visual clarity, and trust.
-
-### 4) Utility Apps
-
-Smaller tools like password/hash utilities and dev helpers that are fast, practical, and simple to use.
+<!-- Add your next project URL here later -->
 
 </details>
 
+<p align="center">
+  <a href="https://apl-delta.vercel.app"><img src="https://img.shields.io/badge/Open%20Project-APL%20Delta-2563eb?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
 ---
 
-## My Style
+## <div align="center">What This Profile Says About Me</div>
+
+<div align="center">
 
 ```txt
-clean UI + premium motion + practical features + fast execution
+clean ui  •  premium motion  •  interactive experiences  •  practical builds  •  fast shipping
 ```
 
-I like interfaces that feel alive without becoming cluttered. The goal is to make everything look intentional, responsive, and easy to use.
+</div>
 
 ---
 
-## Current Goals
-
-* Build more interactive frontends
-* Add stronger motion and scroll-based storytelling
-* Improve design systems and reusable components
-* Ship more useful AI-powered tools
-* Keep projects visually premium and technically solid
-
----
-
-## GitHub Stats
+## <div align="center">GitHub Stats</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedNoorDehalv&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedNoorDehalv&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedNoorDehalvi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedNoorDehalvi&layout=compact&hide_border=true" height="165" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MohammedNoorDehalvi&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammedNoorDehalvi&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
+</p>
+
 ---
 
-## Fun Facts
+## <div align="center">Interactive Sections</div>
 
 <details>
-<summary><b>Click to open</b></summary>
+<summary><b>Click to expand: current goals</b></summary>
 
-* I like making websites feel premium and interactive
-* I enjoy experimenting with AI tools and automation
-* I prefer practical solutions over unnecessary complexity
-* I care a lot about details, layout, and smooth user experience
+* Build more motion-rich websites
+* Make interfaces feel more premium and cinematic
+* Improve reusable frontend systems
+* Ship useful AI and automation tools
+* Keep projects visually sharp and technically solid
+
+</details>
+
+<details>
+<summary><b>Click to expand: style</b></summary>
+
+* Minimal but premium
+* Animated but not noisy
+* Clean typography and spacing
+* Strong CTA buttons and project links
+* Smooth section reveals and details toggles
 
 </details>
 
 ---
 
-## Let’s Connect
+## <div align="center">Connect</div>
 
 <p align="center">
-  <a href="https://github.com/MohammedNoorDehalvi"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"></a>
-  <a href="mailto:mohammednoordehalvi96@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:mohammednoordehalvi96@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://apl-delta.vercel.app"><img src="https://img.shields.io/badge/Live%20Project-APL%20Delta-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <!--
-Replace:
-- your-username
-- your-link
-- your@email.com
-
-Optional add-ons:
-- snake/contribution graph
-- visitor badge
-- pinned project screenshots
+Replace the two placeholders above with your next project URLs later.
+If you want, you can also add a contribution snake, visitor counter, or moving banner GIF.
 -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:0f172a&height=120&section=footer" alt="footer" />
+</p>
