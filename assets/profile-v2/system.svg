@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+<title id="title">Build system dashboard</title><desc id="desc">Animated dashboard showing projects, deployments, public source repositories and private labs.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#120a25"/></linearGradient>
+ <linearGradient id="g" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+ .flow{stroke-dasharray:7 10;animation:flow 9s linear infinite}.pulse{animation:p 2s ease-in-out infinite}.bar{animation:bar 4s ease-in-out infinite alternate}
+ @keyframes flow{to{stroke-dashoffset:-300}}@keyframes p{50%{opacity:.3}}@keyframes bar{to{transform:scaleX(.82)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x="18" y="12" width="1164" height="226" rx="24" fill="url(#bg)" stroke="#334155"/>
+<path class="flow" d="M56 58H1140M56 192H1140" stroke="url(#g)" opacity=".38"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+ <text x="56" y="44" fill="#67e8f9" font-size="13" font-weight="800" letter-spacing="3">BUILD SYSTEM // LIVE TELEMETRY</text>
+ <text x="56" y="84" fill="#f8fafc" font-size="24" font-weight="900">PRODUCT SIGNAL</text>
+ <text x="56" y="111" fill="#94a3b8" font-size="14">A compact map of what is already shipped.</text>
+</g>
+<g font-family="ui-monospace,SFMono-Regular,Consolas,monospace">
+ <g transform="translate(52 132)">
+  <rect width="255" height="76" rx="16" fill="#0f172a" stroke="#164e63"/>
+  <circle class="pulse" cx="28" cy="25" r="7" fill="#22d3ee"/>
+  <text x="46" y="30" fill="#94a3b8" font-size="12">TOTAL PROJECTS</text>
+  <text x="24" y="61" fill="#f8fafc" font-size="27" font-weight="900">10</text>
+  <rect x="72" y="49" width="158" height="7" rx="4" fill="#1e293b"/><rect class="bar" x="72" y="49" width="158" height="7" rx="4" fill="#22d3ee" style="transform-origin:72px 52px"/>
+ </g>
+ <g transform="translate(326 132)">
+  <rect width="255" height="76" rx="16" fill="#0f172a" stroke="#14532d"/>
+  <circle class="pulse" cx="28" cy="25" r="7" fill="#34d399" style="animation-delay:-.5s"/>
+  <text x="46" y="30" fill="#94a3b8" font-size="12">LIVE DEPLOYMENTS</text>
+  <text x="24" y="61" fill="#f8fafc" font-size="27" font-weight="900">09</text>
+  <rect x="72" y="49" width="158" height="7" rx="4" fill="#1e293b"/><rect class="bar" x="72" y="49" width="143" height="7" rx="4" fill="#34d399" style="transform-origin:72px 52px;animation-delay:-1s"/>
+ </g>
+ <g transform="translate(600 132)">
+  <rect width="255" height="76" rx="16" fill="#0f172a" stroke="#4c1d95"/>
+  <circle class="pulse" cx="28" cy="25" r="7" fill="#a78bfa" style="animation-delay:-1s"/>
+  <text x="46" y="30" fill="#94a3b8" font-size="12">PUBLIC SOURCE</text>
+  <text x="24" y="61" fill="#f8fafc" font-size="27" font-weight="900">05</text>
+  <rect x="72" y="49" width="158" height="7" rx="4" fill="#1e293b"/><rect class="bar" x="72" y="49" width="92" height="7" rx="4" fill="#a78bfa" style="transform-origin:72px 52px;animation-delay:-2s"/>
+ </g>
+ <g transform="translate(874 132)">
+  <rect width="255" height="76" rx="16" fill="#0f172a" stroke="#713f12"/>
+  <circle class="pulse" cx="28" cy="25" r="7" fill="#fbbf24" style="animation-delay:-1.5s"/>
+  <text x="46" y="30" fill="#94a3b8" font-size="12">PRIVATE LABS</text>
+  <text x="24" y="61" fill="#f8fafc" font-size="27" font-weight="900">05</text>
+  <rect x="72" y="49" width="158" height="7" rx="4" fill="#1e293b"/><rect class="bar" x="72" y="49" width="92" height="7" rx="4" fill="#fbbf24" style="transform-origin:72px 52px;animation-delay:-3s"/>
+ </g>
+</g>
+<circle cx="1133" cy="39" r="5" fill="#34d399" filter="url(#glow)" class="pulse"/>
+</svg>

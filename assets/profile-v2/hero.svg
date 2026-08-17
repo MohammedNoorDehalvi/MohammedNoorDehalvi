@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Mohammed Noor Dehalvi interactive developer profile</title>
+<desc id="desc">Animated command-center header for a full-stack developer, AI builder, and interactive web creator.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#050816"/>
+    <stop offset=".45" stop-color="#0b1630"/>
+    <stop offset="1" stop-color="#09051a"/>
+  </linearGradient>
+  <linearGradient id="stroke" x1="0" x2="1">
+    <stop offset="0" stop-color="#22d3ee"/>
+    <stop offset=".5" stop-color="#8b5cf6"/>
+    <stop offset="1" stop-color="#34d399"/>
+  </linearGradient>
+  <radialGradient id="orb">
+    <stop offset="0" stop-color="#22d3ee" stop-opacity=".9"/>
+    <stop offset=".35" stop-color="#7c3aed" stop-opacity=".34"/>
+    <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M34 0H0V34" fill="none" stroke="#93c5fd" stroke-opacity=".075"/>
+  </pattern>
+  <clipPath id="panel"><rect x="24" y="20" width="1152" height="320" rx="28"/></clipPath>
+</defs>
+<style>
+  .orb{animation:drift 8s ease-in-out infinite alternate;transform-origin:center}
+  .ring{animation:spin 16s linear infinite;transform-origin:955px 178px}
+  .ring2{animation:spin 11s linear infinite reverse;transform-origin:955px 178px}
+  .pulse{animation:pulse 2.2s ease-in-out infinite}
+  .scan{animation:scan 5.5s linear infinite}
+  .blink{animation:blink 1s steps(2,end) infinite}
+  .dash{stroke-dasharray:10 15;animation:dash 18s linear infinite}
+  @keyframes drift{to{transform:translate(42px,-20px) scale(1.1)}}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  @keyframes pulse{50%{opacity:.35;filter:drop-shadow(0 0 10px #22d3ee)}}
+  @keyframes scan{from{transform:translateY(-80px)}to{transform:translateY(430px)}}
+  @keyframes blink{50%{opacity:0}}
+  @keyframes dash{to{stroke-dashoffset:-500}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="360" fill="#020617"/>
+<g clip-path="url(#panel)">
+  <rect x="24" y="20" width="1152" height="320" rx="28" fill="url(#bg)"/>
+  <rect x="24" y="20" width="1152" height="320" rx="28" fill="url(#grid)"/>
+  <circle class="orb" cx="1030" cy="35" r="260" fill="url(#orb)" opacity=".65"/>
+  <circle class="orb" cx="120" cy="335" r="210" fill="url(#orb)" opacity=".24" style="animation-delay:-4s"/>
+  <path class="dash" d="M-20 302C160 190 250 332 420 224S708 70 870 165s220 86 365-25" fill="none" stroke="url(#stroke)" stroke-width="2.2" opacity=".45"/>
+  <rect class="scan" x="24" y="-70" width="1152" height="70" fill="url(#stroke)" opacity=".055"/>
+</g>
+<rect x="24" y="20" width="1152" height="320" rx="28" fill="none" stroke="url(#stroke)" stroke-width="2"/>
+<g fill="none" stroke="#67e8f9">
+  <circle class="ring" cx="955" cy="178" r="112" stroke-width="1.5" stroke-dasharray="8 13" opacity=".7"/>
+  <circle class="ring2" cx="955" cy="178" r="82" stroke="#a78bfa" stroke-width="2" stroke-dasharray="2 14" opacity=".72"/>
+  <circle class="pulse" cx="955" cy="178" r="48" stroke="#34d399" stroke-width="2" opacity=".85"/>
+  <path d="M955 53v25M955 278v25M830 178h25M1055 178h25" opacity=".5"/>
+</g>
+<g filter="url(#glow)">
+  <circle cx="955" cy="178" r="8" fill="#fff"/>
+  <circle class="pulse" cx="955" cy="178" r="20" fill="#22d3ee" opacity=".16"/>
+</g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <text x="70" y="78" fill="#67e8f9" font-size="14" font-weight="700" letter-spacing="4">PROFILE // ONLINE</text>
+  <text x="70" y="137" fill="#f8fafc" font-size="46" font-weight="900" letter-spacing="1.8">MOHAMMED NOOR</text>
+  <text x="70" y="185" fill="url(#stroke)" font-size="46" font-weight="900" letter-spacing="1.8">DEHALVI</text>
+  <text x="72" y="224" fill="#cbd5e1" font-size="16" font-weight="600" letter-spacing="2.5">FULL-STACK • AI SYSTEMS • INTERACTIVE WEB • PRODUCT UI</text>
+  <rect x="70" y="251" width="530" height="48" rx="12" fill="#020617" fill-opacity=".72" stroke="#334155"/>
+  <circle class="pulse" cx="93" cy="275" r="6" fill="#34d399"/>
+  <text x="111" y="281" fill="#94a3b8" font-size="15" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">shipping polished products, not placeholder screens</text>
+  <rect class="blink" x="575" y="264" width="9" height="19" rx="2" fill="#22d3ee"/>
+  <text x="902" y="183" fill="#e2e8f0" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="2">BUILD CORE</text>
+  <text x="955" y="331" fill="#64748b" font-size="11" text-anchor="middle" letter-spacing="3">INDIA • 2026</text>
+</g>
+<g fill="#0f172a" stroke="#334155">
+  <rect x="1030" y="42" width="118" height="30" rx="15"/>
+  <rect x="1030" y="286" width="118" height="30" rx="15"/>
+</g>
+<g fill="#cbd5e1" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700" text-anchor="middle">
+  <text x="1089" y="61">10 PROJECTS</text>
+  <text x="1089" y="305">09 LIVE</text>
+</g>
+</svg>
