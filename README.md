@@ -70,13 +70,42 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td width="50%" align="center">
       <a href="https://teen-talk-2.vercel.app/">
-        <img src="./assets/profile-v2/projects/teen-talk-2.svg" width="49%" alt="Teen Talk 2 live project" />
+        <img src="./assets/profile-v2/projects/teen-talk-2.svg" width="100%" alt="Teen Talk 2 live project" />
       </a>
       <br />
       <a href="https://github.com/MohammedNoorDehalvi/TeenTalk-2-">
         <img src="./assets/profile-v2/button-source.svg" width="165" alt="Teen Talk 2 source code" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://self-fitness-app.vercel.app/">
+        <img src="./assets/profile-v2/projects/self-fitness.svg" width="100%" alt="Self Fitness live project" />
+      </a>
+      <br />
+      <a href="https://github.com/MohammedNoorDehalvi/Self-Fitness-App">
+        <img src="./assets/profile-v2/button-source.svg" width="165" alt="Self Fitness source code" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/MohammedNoorDehalvi/noor-ai-studio">
+        <img src="./assets/profile-v2/projects/noor-ai-studio.svg" width="100%" alt="Noor AI Studio open-source project" />
+      </a>
+      <br />
+      <a href="https://github.com/MohammedNoorDehalvi/noor-ai-studio">
+        <img src="./assets/profile-v2/button-source.svg" width="165" alt="Noor AI Studio source code" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://local-work-tracker.vercel.app/">
+        <img src="./assets/profile-v2/projects/local-work-tracker.svg" width="100%" alt="Local Work Tracker live project" />
+      </a>
+      <br />
+      <a href="https://github.com/MohammedNoorDehalvi/local-work-tracker">
+        <img src="./assets/profile-v2/button-source.svg" width="165" alt="Local Work Tracker source code" />
       </a>
     </td>
   </tr>
@@ -93,26 +122,6 @@
 
 <table>
   <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/MohammedNoorDehalvi/noor-ai-studio">
-        <img src="./assets/profile-v2/projects/noor-ai-studio.svg" width="49%" alt="Noor AI Studio private project" />
-      </a>
-      <br />
-      <a href="https://github.com/MohammedNoorDehalvi/noor-ai-studio">
-        <img src="./assets/profile-v2/button-private.svg" width="165" alt="Noor AI Studio private source" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://self-fitness-app.vercel.app/">
-        <img src="./assets/profile-v2/projects/self-fitness.svg" width="100%" alt="Self Fitness live project" />
-      </a>
-      <br />
-      <a href="https://github.com/MohammedNoorDehalvi/Self-Fitness-App">
-        <img src="./assets/profile-v2/button-private.svg" width="165" alt="Self Fitness private source" />
-      </a>
-    </td>
     <td width="50%" align="center">
       <a href="https://continentalgourmet.shop/">
         <img src="./assets/profile-v2/projects/cgs.svg" width="100%" alt="Continental Gourmet live project" />
@@ -122,8 +131,6 @@
         <img src="./assets/profile-v2/button-private.svg" width="165" alt="Continental Gourmet private source" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <a href="https://project-manager-two-lovat.vercel.app/">
         <img src="./assets/profile-v2/projects/project-manager.svg" width="100%" alt="Project Manager live project" />
@@ -131,15 +138,6 @@
       <br />
       <a href="https://github.com/MohammedNoorDehalvi/project-manager">
         <img src="./assets/profile-v2/button-private.svg" width="165" alt="Project Manager private source" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://local-work-tracker.vercel.app/">
-        <img src="./assets/profile-v2/projects/local-work-tracker.svg" width="100%" alt="Local Work Tracker live project" />
-      </a>
-      <br />
-      <a href="https://github.com/MohammedNoorDehalvi/local-work-tracker">
-        <img src="./assets/profile-v2/button-private.svg" width="165" alt="Local Work Tracker private source" />
       </a>
     </td>
   </tr>
