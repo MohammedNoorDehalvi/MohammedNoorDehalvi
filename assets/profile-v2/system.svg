@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
-<title id="title">Build system dashboard</title><desc id="desc">Animated dashboard showing projects, deployments, public source repositories and private labs.</desc>
+<title id="title">Build system dashboard</title><desc id="desc">Animated dashboard showing ten projects, nine deployments, eight public source repositories and two private labs.</desc>
 <defs>
  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#120a25"/></linearGradient>
  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#34d399"/></linearGradient>
@@ -35,15 +35,15 @@
   <rect width="255" height="76" rx="16" fill="#0f172a" stroke="#4c1d95"/>
   <circle class="pulse" cx="28" cy="25" r="7" fill="#a78bfa" style="animation-delay:-1s"/>
   <text x="46" y="30" fill="#94a3b8" font-size="12">PUBLIC SOURCE</text>
-  <text x="24" y="61" fill="#f8fafc" font-size="27" font-weight="900">05</text>
-  <rect x="72" y="49" width="158" height="7" rx="4" fill="#1e293b"/><rect class="bar" x="72" y="49" width="92" height="7" rx="4" fill="#a78bfa" style="transform-origin:72px 52px;animation-delay:-2s"/>
+  <text x="24" y="61" fill="#f8fafc" font-size="27" font-weight="900">08</text>
+  <rect x="72" y="49" width="158" height="7" rx="4" fill="#1e293b"/><rect class="bar" x="72" y="49" width="126" height="7" rx="4" fill="#a78bfa" style="transform-origin:72px 52px;animation-delay:-2s"/>
  </g>
  <g transform="translate(874 132)">
   <rect width="255" height="76" rx="16" fill="#0f172a" stroke="#713f12"/>
   <circle class="pulse" cx="28" cy="25" r="7" fill="#fbbf24" style="animation-delay:-1.5s"/>
   <text x="46" y="30" fill="#94a3b8" font-size="12">PRIVATE LABS</text>
-  <text x="24" y="61" fill="#f8fafc" font-size="27" font-weight="900">05</text>
-  <rect x="72" y="49" width="158" height="7" rx="4" fill="#1e293b"/><rect class="bar" x="72" y="49" width="92" height="7" rx="4" fill="#fbbf24" style="transform-origin:72px 52px;animation-delay:-3s"/>
+  <text x="24" y="61" fill="#f8fafc" font-size="27" font-weight="900">02</text>
+  <rect x="72" y="49" width="158" height="7" rx="4" fill="#1e293b"/><rect class="bar" x="72" y="49" width="32" height="7" rx="4" fill="#fbbf24" style="transform-origin:72px 52px;animation-delay:-3s"/>
  </g>
 </g>
 <circle cx="1133" cy="39" r="5" fill="#34d399" filter="url(#glow)" class="pulse"/>
