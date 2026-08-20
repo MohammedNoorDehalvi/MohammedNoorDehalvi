@@ -93,6 +93,17 @@
 
 <table>
   <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/MohammedNoorDehalvi/noor-ai-studio">
+        <img src="./assets/profile-v2/projects/noor-ai-studio.svg" width="49%" alt="Noor AI Studio private project" />
+      </a>
+      <br />
+      <a href="https://github.com/MohammedNoorDehalvi/noor-ai-studio">
+        <img src="./assets/profile-v2/button-private.svg" width="165" alt="Noor AI Studio private source" />
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" align="center">
       <a href="https://self-fitness-app.vercel.app/">
         <img src="./assets/profile-v2/projects/self-fitness.svg" width="100%" alt="Self Fitness live project" />
@@ -129,17 +140,6 @@
       <br />
       <a href="https://github.com/MohammedNoorDehalvi/local-work-tracker">
         <img src="./assets/profile-v2/button-private.svg" width="165" alt="Local Work Tracker private source" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/MohammedNoorDehalvi/master">
-        <img src="./assets/profile-v2/projects/master.svg" width="49%" alt="Master private archive" />
-      </a>
-      <br />
-      <a href="https://github.com/MohammedNoorDehalvi/master">
-        <img src="./assets/profile-v2/button-private.svg" width="165" alt="Master archive private source" />
       </a>
     </td>
   </tr>
